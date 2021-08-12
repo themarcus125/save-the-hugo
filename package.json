@@ -1,0 +1,26 @@
+{
+  "name": "chinese-girl",
+  "version": "1.0.0",
+  "description": "HAPPY BIRTHDAY SITE TO OUR MOST FAVORITE PERSON!!",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/themarcus125/chinese-girl.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/themarcus125/chinese-girl/issues"
+  },
+  "homepage": "https://github.com/themarcus125/chinese-girl#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
